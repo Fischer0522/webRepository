@@ -1,0 +1,10 @@
+com\fischer\service\BrandService.class
+com\fischer\pojo\PageBean.class
+com\fischer\servlet\BrandServlet.class
+com\fischer\servlet\old\AddAllServlet.class
+com\fischer\pojo\Brand.class
+com\fischer\servlet\BaseServlet.class
+com\fischer\service\BrandServiceImpl.class
+com\fischer\util\SqlSessionFactoryUtils.class
+com\fischer\mapper\BrandMapper.class
+com\fischer\servlet\old\SelectAllServlet.class
